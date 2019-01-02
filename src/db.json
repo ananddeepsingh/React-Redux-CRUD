@@ -1,0 +1,71 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "fname": "Anand Deep",
+      "lname": "Singh",
+      "email": "anand@gmail.com",
+      "password": "anand"
+    },
+    {
+      "id": 2,
+      "fname": "Deepak",
+      "lname": "Kumar",
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": 3,
+      "email": "ram",
+      "fname": "Ramandeep",
+      "lname": "singh",
+      "password": "ram"
+    },
+    {
+      "id": 4,
+      "fname": "Amarpreet",
+      "lname": "Kaur",
+      "email": "Amar",
+      "password": "Amar"
+    },
+    {
+      "id": 5,
+      "email": "aaf",
+      "fname": "Shyam",
+      "lname": " Singh"
+    },
+    {
+      "id": 6,
+      "email": "rama",
+      "fname": "Ram2",
+      "lname": "Singh",
+      "password": "rama"
+    },
+    {
+      "id": 7,
+      "email": "d2",
+      "fname": "d2",
+      "lname": "aaaadd"
+    },
+    {
+      "id": 8,
+      "email": "da2ss",
+      "fname": "d2ss",
+      "lname": "aaaass",
+      "password": "d2ss"
+    },
+    {
+      "id": 9,
+      "email": "r",
+      "fname": "Ranjan",
+      "lname": "Nigam"
+    },
+    {
+      "fname": "Ad",
+      "lname": "Adad",
+      "email": "ad",
+      "password": "ad",
+      "id": 11
+    }
+  ]
+}
